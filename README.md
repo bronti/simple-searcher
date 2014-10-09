@@ -1,5 +1,6 @@
-Indexer:
+<strong> Indexer: </strong>
 
+</br>
 
 script in Indexer/build/install/Indexer/bin
 
@@ -7,8 +8,11 @@ to run use command:
 
 ./indexer DATA_DIR OUTPUT_FILE
 
+</br>
 
-Searcher:
+<strong>Searcher:</strong>
+
+</br>
 
 
 script in Searcher/build/install/Searcher/bin
