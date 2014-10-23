@@ -1,3 +1,8 @@
+<strong> To build: </strong>
+
+./grdlew installApp
+
+
 <strong> Indexer: </strong>
 
 </br>
