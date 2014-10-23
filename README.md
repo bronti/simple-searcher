@@ -1,6 +1,6 @@
 <strong> To build: </strong>
 
-./grdlew installApp
+./gradlew installApp
 
 
 <strong> Indexer: </strong>
